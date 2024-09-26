@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://sotwecolmek.pages.dev/sitemap.xml
