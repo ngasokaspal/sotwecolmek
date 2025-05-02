@@ -27,7 +27,7 @@ const VideoCard = ({ video }: any) => {
                     className="line-clamp-2 text-sm md:text-md font-semibold hover:text-primary focus:text-primary"
                     title={`Bokep ${video.title}`}
                 >
-                    {video.title}
+                   Bokep {video.title}
                 </Link></h3>
             </CardContent>
         </Card>
